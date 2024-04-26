@@ -22,8 +22,6 @@
 
 =>  Website Name    : Jelimo Dairy Website 
 
-=>  Website Link    : https://htmlcodex.com/dairy-website-template
-
 =>  Template License : Read the LICENSE.txt file
 
 =>  Author  : Ahithopel
