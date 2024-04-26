@@ -1,5 +1,4 @@
-# jelimoDMS
- =>  Welcome to Our Dairy Farm Website!
+=>  Welcome to Our Dairy Farm Website!
 
 =>  Thank you for visiting our website. Here you will find everything you need to know about our dairy farm, our products, and the services we offer.
 
