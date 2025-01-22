@@ -24,6 +24,6 @@
 
 =>  Template License : Read the LICENSE.txt file
 
-=>  Author  : Ahithopel
+=>  Author  : Ahithopel Flevian 
 
 =>  Author Website   : https://flevian11.github.io/portfolio
